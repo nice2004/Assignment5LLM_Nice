@@ -46,7 +46,9 @@ the 'ask' function importation from the LLM_models.
 
 Mervin Praison: 
 https://www.youtube.com/watch?v=WJYvfTJPv-o
+
 API from: 
 https://platform.openai.com/chat-completions
+
 API utilization: 
 https://cookbook.openai.com/examples/question_answering_using_embeddings
