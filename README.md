@@ -36,3 +36,16 @@ allowed by our OpenAI model .
 
 * LLM_runner.py: this is the runner of our project where a user is able to ask questions and get a response. This is all done due to 
 the 'ask' function importation from the LLM_models.
+
+**Detailed instructions on how one might go about utilizing your software**
+- Clone the repository - git clone (the ssh key)
+- To use our chatbot - run LLM_runner.py
+
+**Sources**
+
+Mervin Praison: 
+https://www.youtube.com/watch?v=WJYvfTJPv-o
+API from: 
+https://platform.openai.com/chat-completions
+API utilization: 
+https://cookbook.openai.com/examples/question_answering_using_embeddings
