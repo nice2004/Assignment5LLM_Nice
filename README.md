@@ -1,8 +1,8 @@
 # Assignment5LLM
 
-** Westmont College Fall 2024 **
+**Westmont College Fall 2024**
 
-** CS 128 Information Retrieval and Big Data **
+**CS 128 Information Retrieval and Big Data**
 
 # Team Members:
 - David Oyebade (doyebade@westmont.edu)
