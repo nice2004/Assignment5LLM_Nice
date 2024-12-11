@@ -11,6 +11,7 @@ demo link: https://docs.google.com/presentation/d/15MbI7QSrifDiAkEs1deu6F1GjQt3l
 - Gabriel Leung (gleung@westmont.edu)
 - Nice Teta Hirwa (nhirwa@westmont.edu)
 
+# Project Structure 
 
 This README file thoroughly explains the structure of our project with its directories, files and their functions.
 For context, our project is to make a chatbot that is personable. This Chat Bot can be trained based on your own files, the data set we chose contains 
@@ -37,11 +38,11 @@ allowed by our OpenAI model .
 * LLM_runner.py: this is the runner of our project where a user is able to ask questions and get a response. This is all done due to 
 the 'ask' function importation from the LLM_models.
 
-**Detailed instructions on how one might go about utilizing your software**
+# Detailed instructions on how one might go about utilizing your software
 - Clone the repository - git clone (the ssh key)
 - To use our chatbot - run LLM_runner.py
 
-**Sources**
+# Sources
 
 Mervin Praison: 
 https://www.youtube.com/watch?v=WJYvfTJPv-o
